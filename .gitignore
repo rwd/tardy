@@ -2,4 +2,3 @@
 /manifest.yml
 *.gem
 .ruby-version
-Gemfile.lock
